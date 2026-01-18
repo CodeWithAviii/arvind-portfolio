@@ -33,11 +33,11 @@ best practices in a dynamic software development environment.`,
   // Upload your CV to public folder or use an external link
   cvLink: "/resume/ArvindLatestResume.pdf",
 
-  // EmailJS Configuration (get these from emailjs.com dashboard)
+  // EmailJS Configuration (loaded from .env file)
   emailjs: {
-    serviceId: "service_bm9e2xx",      // Replace with your EmailJS service ID
-    templateId: "template_ozwrnf4",    // Replace with your EmailJS template ID  
-    publicKey: "e5CUoKPYLlSx9RDzc",      // Replace with your EmailJS public key
+    serviceId: import.meta.env.VITE_EMAILJS_SERVICE_ID || '',
+    templateId: import.meta.env.VITE_EMAILJS_TEMPLATE_ID || '',
+    publicKey: import.meta.env.VITE_EMAILJS_PUBLIC_KEY || '',
   },
 
   // Navigation Links (id must match section id in components)
