@@ -31,7 +31,7 @@ best practices in a dynamic software development environment.`,
 
   // CV/Resume Download Link
   // Upload your CV to public folder or use an external link
-  cvLink: "/resume/Arvind_Kumar_CV.pdf",
+  cvLink: "/resume/ArvindLatestResume.pdf",
 
   // EmailJS Configuration (get these from emailjs.com dashboard)
   emailjs: {
