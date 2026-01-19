@@ -8,7 +8,7 @@ export const config = {
   // Personal Information
   personal: {
     name: "Arvind Kumar",
-    title: "Frontend Developer",
+    title: "Full-Stack Developer",
     email: "arvindkum8312@gmail.com",
     phone: "+91 8306962012",
     location: "Ahmedabad, Gujarat, India",
@@ -17,15 +17,15 @@ export const config = {
     tagline: "Recent BCA graduate with hands-on experience in HTML, CSS, JavaScript, React.js, and Next.js.",
     
     // Full about/objective text
-    objective: `Recent BCA graduate with hands-on experience in HTML, CSS, JavaScript, React.js, and Next.js. 
-Looking for an entry-level Frontend Developer role to contribute to designing and developing 
+    objective: `Recent BCA graduate with hands-on experience in HTML, CSS, JavaScript, React.js,Next.js, Node.js, and Express. 
+Looking for an entry-level Full-Stack Developer role to contribute to designing and developing 
 responsive web applications. Eager to apply my knowledge of modern frontend frameworks and 
 best practices in a dynamic software development environment.`,
   },
 
   // Social Links
   social: {
-    linkedin: "https://linkedin.com/in/arvindkumar",
+    linkedin: "https://www.linkedin.com/in/arvind-kumar-a532a3315/",
     github: "https://github.com/CodeWithAviii",
   },
 

@@ -17,7 +17,7 @@ export const projects = [
     title: "BlogSite",
     description: "Create, edit, and delete blog posts with real-time synchronization, secure data handling, and a clean minimalist UI.",
     tags: ["React.js", "Appwrite"],
-    link: "#",
+    link: "https://arvind-writes.vercel.app/",
     repo: "https://github.com/CodeWithAviii/react-series/tree/main/12BlogAppProject",
   },
 ]
